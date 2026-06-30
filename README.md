@@ -1,5 +1,4 @@
 # Telecom Customer Churn Prediction
-### End-to-End Machine Learning Project — Portfolio
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.8-orange?logo=scikit-learn&logoColor=white)
